@@ -32,7 +32,8 @@ This project is a desktop application that allows users to create and simulate M
 
 ## Screenshots
 
-Screenshots of the application will be added here.
+create-tables
+result
 
 ## Developer
 

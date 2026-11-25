@@ -32,9 +32,11 @@ This project is a desktop application that allows users to create and simulate M
 
 ## Screenshots
 
-create-tables-button
+### Create Tables
+![Create Tables](create-tables.png)
 
-result
+### Simulation Result
+![Simulation Result](result.png)
 
 ## Developer
 
